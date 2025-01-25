@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
 body {
     margin: 0;
     padding: 0;
@@ -6,7 +8,7 @@ body {
 header {
     width: 100vw;
     height: 100vh;
-    background: url(header_bg.webp);
+    background: url(header_bg.png);
     background-size: cover;
     display: flex;
 }
@@ -114,4 +116,8 @@ footer {
     align-items: center;
     justify-content: center;
     color: white;
+}
+
+.name {
+    font-family: "Oswald", serif;
 }
