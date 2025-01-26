@@ -121,3 +121,8 @@ footer {
 .name {
     font-family: "Oswald", serif;
 }
+
+.button_down {
+    padding: 20px;
+    
+}
